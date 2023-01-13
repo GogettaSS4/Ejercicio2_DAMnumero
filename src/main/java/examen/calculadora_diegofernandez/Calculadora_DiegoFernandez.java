@@ -15,6 +15,7 @@ public class Calculadora {
 
     public static void main(String[] args) {
         System.out.println("Bienbenido a mi repositorio");
+        System.out.println("Hola");
         while (opcion != 0) {
             //Try catch para evitar que el programa termine si hay un error
             try {
